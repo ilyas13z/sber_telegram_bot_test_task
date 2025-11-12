@@ -1,0 +1,84 @@
+{
+  "chats": {
+    "5357722021": {
+      "polls": [
+        {
+          "poll_id": "5235772825557537578",
+          "options": [
+            "print(\"Hello World\")",
+            "import os",
+            "def main():",
+            "x = 0"
+          ],
+          "votes": {
+            "0": 0,
+            "1": 0,
+            "2": 0,
+            "3": 0
+          },
+          "winner": "print(\"Hello World\")",
+          "winner_index": 0,
+          "closed_at": "2025-11-13T00:36:38.309369"
+        }
+      ],
+      "active_poll": {
+        "poll_id": "5235772825557537580",
+        "message_id": 627,
+        "options": [
+          "print(\"Hello Again\")",
+          "x = 5",
+          "y = \"test\"",
+          "print(x)"
+        ],
+        "votes": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0
+        },
+        "close_time": 1762983416.466442,
+        "created_at": "2025-11-13T00:36:46.466445"
+      }
+    },
+    "719999670": {
+      "polls": [
+        {
+          "poll_id": "5235790430628483795",
+          "options": [
+            "print(\"Hello World\")",
+            "import os",
+            "def main():",
+            "x = 5"
+          ],
+          "votes": {
+            "0": 0,
+            "1": 0,
+            "2": 0,
+            "3": 0
+          },
+          "winner": "print(\"Hello World\")",
+          "winner_index": 0,
+          "closed_at": "2025-11-13T00:36:36.838810"
+        }
+      ],
+      "active_poll": {
+        "poll_id": "5235790430628483796",
+        "message_id": 628,
+        "options": [
+          "x = 5",
+          "y = \"World\"",
+          "print(x)",
+          "print(y)"
+        ],
+        "votes": {
+          "0": 0,
+          "1": 0,
+          "2": 0,
+          "3": 0
+        },
+        "close_time": 1762983416.465266,
+        "created_at": "2025-11-13T00:36:46.465269"
+      }
+    }
+  }
+}
